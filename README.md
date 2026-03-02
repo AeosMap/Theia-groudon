@@ -1,5 +1,5 @@
 # Summary
-Website: [Theia](https://aeosmap.github.io/Theia/)
+Main: [Theia](https://aeosmap.github.io/Theia/)
 <br>
 Download Folder:  [Releases](https://github.com/AeosMap/Theia/releases)
 <br>
